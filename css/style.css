@@ -1,0 +1,232 @@
+body {
+    font-family:'Noto Sans';
+    font-size:14px;
+    
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family:'Noto Sans';
+}
+
+h1 {
+    line-height:50px;
+    font-weight:900;
+    font-size:40px;
+    padding:50px 20px 50px 20px;
+    color:rgba(0, 121, 138, 1);
+}
+
+span {
+
+    color: #2A76A4;
+}
+
+.text-center {
+    text-align:center;
+}
+
+h2 {
+    line-height:50px;
+    padding-bottom: 30px;
+}
+h3 {
+    line-height:30px;
+    padding-bottom:30px;
+}
+h4 {
+
+   padding-top: 25px;
+   line-height: 40px;
+   padding-bottom: 0px;
+   font-size: 22px;
+   font-weight: 900;
+}
+
+p {
+    font-weight:300px;
+    line-height:30px;
+    padding-bottom: 3px;
+    font-size: 16px;
+}
+
+
+li {
+
+    font-size: 16px;
+
+}
+
+
+
+/*=======================================
+    HEADER SECTION STYLES
+==================================================*/
+
+#PMT-logo {
+
+    height: 50px;
+    width: 50px;
+
+
+}
+
+.navbar-brand {
+
+    font-size: 30px;
+
+}
+
+.navbar {
+
+    background:transparent;
+
+}
+
+
+/*=======================================
+    HOME SECTION STYLES
+==================================================*/
+
+
+#home-text {
+
+    padding-top:130px;
+    padding-bottom:200px;
+    color: black;
+    text-shadow: 2px 2px white;
+}
+
+#enroll-button {
+
+    margin-top: -150px;
+    padding-bottom: 200px;
+
+}
+
+.head-main {
+    font-size:80px ;
+    font-weight:900;
+    
+}
+.head-sub-main {
+    font-size:40px ;
+    font-weight:600;
+    padding:5px 20px 10px 20px;
+
+}
+.head-last {
+    font-size:20px ;
+    font-weight:300;
+    padding:5px 20px 20px 20px;
+}
+
+
+/*=======================================
+    JUMBOTRON SECTION STYLES
+==================================================*/
+
+#info-sec {
+
+    background-color: #2A76A4;
+
+}
+
+#jumbotron {
+
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+
+.know-more {
+
+    width: 500px;
+    height: 400px;
+
+}
+
+#know-button {
+
+    margin-top: 30px;
+    margin-bottom: 50px;
+
+}
+
+
+
+/*=======================================
+    KNOW MORE STYLES
+==================================================*/
+
+.card-deck {
+
+    margin-top: 50px;
+
+
+}
+
+
+
+/*=======================================
+    CALL TO ACTION STYLES
+==================================================*/
+
+#callToAction {
+
+    background-color: #2A76A4;
+
+}
+
+#action-jumbotron {
+
+    margin: 80px 100px 80px 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+#call-button {
+
+    margin-top: 30px;
+    margin-bottom: 50px;
+
+}
+
+
+
+/*=======================================
+    FOOTER STYLES
+==================================================*/
+
+
+#footer {
+    background-color:#000;
+    color:#fff;
+    padding:20px 50px 20px 50px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
